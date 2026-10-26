@@ -1,1 +1,0 @@
-# Simple-Geometry-Problem-Bank-System
